@@ -1,0 +1,5 @@
+p,admin,debug,read
+p,admin,debug,write
+p,developer,debug,read
+p,developer,debug,write
+p,user,debug,read
